@@ -1,1 +1,1 @@
-# Implementation_kmeans_whit_mlp_on_MNIST
+# implementation_kmeans_whit_mlp_on_MNIST
