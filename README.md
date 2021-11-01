@@ -1,3 +1,4 @@
+## implementation combination of kmeans and MLP on MNIST
 The aim of this project is to implement the K-means clustering algorithm using MLP neural networks.
 
 In the first step, we run the K-means clustering algorithm on the MNIST database with various parameters, including the simple mode you want to implement and examine the effect of changing each of these parameters on the performance of the algorithm. To evaluate performance, we use the Purity and Rand Index.
